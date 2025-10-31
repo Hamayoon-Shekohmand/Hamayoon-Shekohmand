@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamayoon Shekohmand</h1>
 <h3 align="center">I'm a student at Kabul University, 📚 ICT Faculty – ISE Department</h3>
-<img align="right"alt="coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right"alt="coding"width="400"src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamayoon-shekohmand&label=Profile%20views&color=0e75b6&style=flat" alt="hamayoon-shekohmand" /> </p>
 
 - 📫 How to reach me **hamayoonshekohmand997@gmail.com**
